@@ -1,0 +1,47 @@
+.header {
+	width: 1030px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 160px;
+	overflow: hidden;
+}
+
+.logo {
+float: left;
+width: 25%;
+padding: 0 15px;
+}
+
+.c-name {
+font-family: roboto;
+color: red;
+font-weight: 900;
+font-style: normal;
+}
+
+
+.city {
+float: left;
+width: 25%;
+padding: 0 15px;
+}
+
+.contacts {
+float: left;
+width: 25%;
+padding: 0 15px;
+}
+
+.insta {
+float: left;
+width: 12.5%;
+padding: 0 15px;
+overflow: hidden;
+
+}
+
+.fb {
+float: left;
+width: 12.5%;
+padding: 0 15px;
+}
