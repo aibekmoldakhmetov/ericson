@@ -1,0 +1,104 @@
+
+/*CSS для блока шапки сайта*/
+.header {
+	width: 1030px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 160px;
+	/*overflow: hidden;*/
+}
+
+.logo {
+	/*float: left;*/
+	display:inline-block;
+	/*width: 25%;*/
+	padding: 0 15px;
+	vertical-align: top;
+}
+
+.c-name {
+	font-family: roboto;
+	color: red;
+	font-weight: 900;
+	font-style: normal;
+}
+
+
+.city {
+	/*float: left;*/
+	/*width: 25%;*/
+	padding: 0 15px;
+	display:inline-block;
+}
+
+.contacts {
+	/*float: left;*/
+	/*width: 25%;*/
+	padding: 0 15px;
+	display:inline-block;
+}
+
+.adress {
+	/*float: left;*/
+	/*width: 25%;*/
+	padding: 0 15px;
+	display:inline-block;
+	vertical-align: top;
+}
+
+.insta {
+	/*float: left;*/
+	display:inline-block;
+	/*width: 12.5%;*/
+	/*padding: 0 15px;*/
+	/*overflow: hidden;*/
+	vertical-align: top;
+
+}
+
+.fb {
+	/*float: left;*/
+	display:inline-block;
+	/*width: 12.5%;*/
+	/*padding: 0 15px;*/
+	vertical-align: top;
+}
+
+.ul {
+
+	padding-inline-start: 0px;
+
+}
+
+
+/*.banner {*/
+	width:250px;
+	height: 250px;
+	background: red;
+	position: fixed;
+	top:10%;	
+	right: 15%;
+	display: none;
+}
+
+/*.test {*/
+	/*width:250px;*/
+	height: 400px;
+	background: blue;
+	position: relative;
+	/*top:10%;	*/
+	/*right: 15%;*/
+}
+
+/*.position-test-inside {*/
+	width:100px;
+	height: 100px;
+	background: yellow;
+	position: absolute;
+	top:0%;	
+	left:0%;
+
+}
+
+
+
